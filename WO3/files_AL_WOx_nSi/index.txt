@@ -1,0 +1,33 @@
+C-V Sweep_Post 250s_-5V_1k,10k,100k,500k,1MHz [1(1) ; 3/29/2023 6:52:27 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-11.csv
+I/V-t Sampling_250s_dark_-5V [1(1) ; 3/29/2023 6:44:08 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-10.csv
+C-V Sweep_Post 250s_-3V_1k,10k,100k,500k,1MHz [1(1) ; 3/29/2023 6:15:41 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-9.csv
+I/V-t Sampling_250s_dark_-3V [1(1) ; 3/29/2023 6:02:55 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-8.csv
+C-V Sweep_After_500s_3V_1k,10k,100k,500k,1MHz [1(1) ; 3/29/2023 5:47:14 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-7.csv
+I/V-t Sampling_500s_dark_3V [1(1) ; 3/29/2023 5:32:32 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-6.csv
+C-V Sweep_after 100s_1k_10k_100k_500k_1M [1(1) ; 3/29/2023 5:04:44 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-5.csv
+I/V-t Sampling_100s_dark_3V [1(3) ; 3/29/2023 4:51:22 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(3)-3.csv
+I/V-t Sampling_50s_dark_3V [1(2) ; 3/29/2023 4:43:38 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(2)-3.csv
+I/V-t Sampling [1(1) ; 3/29/2023 4:39:48 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-4.csv
+I/V Sweep_light_0-3 [1(5) ; 3/29/2023 4:32:41 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(5)-2.csv
+I/V Sweep_light_0-2 [1(4) ; 3/29/2023 4:30:14 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(4)-2.csv
+I/V Sweep_light_0-(-2) [1(3) ; 3/29/2023 4:27:33 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(3)-2.csv
+I/V Sweep_light_0-(-1) [1(2) ; 3/29/2023 4:22:02 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(2)-2.csv
+I/V Sweep_light_0-1 [1(1) ; 3/29/2023 4:20:51 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-3.csv
+C-V Sweep_light_-6-2_100k_500k_1M [1(1) ; 3/29/2023 4:18:32 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1)-2.csv
+I/V Sweep_0_-2v_dark [1(5) ; 3/29/2023 4:12:24 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(5).csv
+I/V Sweep_0_-2v_dark [1(4) ; 3/29/2023 4:10:03 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(4).csv
+I/V Sweep_0_2v_dark [1(3) ; 3/29/2023 4:06:02 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(3).csv
+I/V Sweep_0_1v_dark [1(2) ; 3/29/2023 4:03:45 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(2).csv
+I/V Sweep_0_1v_dark [1(1) ; 3/29/2023 4:01:28 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\1(1).csv
+C-V Sweep_-6_2_100k_500k_1M [(5) ; 3/29/2023 3:58:38 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(5).csv
+C-V Sweep_-5_2_100k_500k_1M_5M [(4) ; 3/29/2023 3:55:02 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(4)-2.csv
+C-V Sweep_-5_2_10k_100k_500k_1M [(3) ; 3/29/2023 3:51:22 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(3)-3.csv
+C-V Sweep_-5_2_1k_10k_100k_500k_1M [(2) ; 3/29/2023 3:47:25 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(2)-3.csv
+C-V Sweep [(1) ; 3/29/2023 3:37:23 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(1)-3.csv
+I/V Sweep_check [(3) ; 3/29/2023 3:35:20 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(3)-2.csv
+I/V Sweep_check [(2) ; 3/29/2023 3:34:59 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(2)-2.csv
+I/V Sweep [(1) ; 3/29/2023 3:33:42 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(1)-2.csv
+C-V Sweep_check [(4) ; 3/29/2023 3:32:35 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(4).csv
+C-V Sweep_check [(3) ; 3/29/2023 3:31:28 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(3).csv
+C-V Sweep_check [(2) ; 3/29/2023 3:30:35 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(2).csv
+C-V Sweep_check [(1) ; 3/29/2023 3:27:26 PM]	->	D:\Users\MNDLAB\Mar2023\MNDLAB-8-29032023\files_AL_WOx_nSi\(1).csv

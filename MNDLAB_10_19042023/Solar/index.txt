@@ -1,0 +1,2 @@
+I/V Sweep-Solar cell-light [Solar cell(10) ; 4/19/2023 5:45:38 PM]	->	D:\Users\MNDLAB\APR2023\MNDLAB_10_19042023\Solar\I_V Sweep-Solar cell-light [Solar cell(10) ; 4_19_2023 5_45_38 PM].csv
+I/V Sweep-Solar cell-dark [Solar cell(9) ; 4/19/2023 5:43:30 PM]	->	D:\Users\MNDLAB\APR2023\MNDLAB_10_19042023\Solar\I_V Sweep-Solar cell-dark [Solar cell(9) ; 4_19_2023 5_43_30 PM].csv
